@@ -37,7 +37,7 @@ li::-moz-list-bullet
 ```css
 ::-moz-list-bullet {
   color: red;
-  font-size: 1.5em;
+  font-size: 2em;
 }
 ```
 
